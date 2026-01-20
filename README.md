@@ -28,20 +28,21 @@ TABULEIRO:
 0 0 0 0 3 5 5 5 5 5 
 0 0 0 0 0 0 5 5 5 0 
 0 0 0 0 0 0 0 5 0 0 
-🚀 O que foi implementado
-Nível 1: Novato
+```
+## 🚀 O que foi implementado
+**Nível 1:** Novato
 Criei o tabuleiro 10x10.
 
 Posicionei dois navios simples (um na horizontal e um na vertical).
 
 Fiz a verificação para o navio não sair para fora do mapa.
 
-Nível 2: Aventureiro
+**Nível 2:** Aventureiro
 Adicionei navios na diagonal (tanto / quanto \).
 
 Implementei a validação para impedir que um navio fique em cima do outro (sobreposição).
 
-Nível 3: Mestre (Habilidades)
+**Nível 3:** Mestre (Habilidades)
 Aqui foi a parte mais complexa. As habilidades especiais não são desenhos fixos; elas são geradas pelo código usando loops e condições (if/else):
 
 Cruz: Pinta a linha e a coluna do centro.
