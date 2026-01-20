@@ -12,7 +12,7 @@ O objetivo principal foi aplicar lógica de programação para manipular um tabu
 
 ---
 
-## 📸 Exemplo de Saída
+## 📸 Exemplo de Saida
 O jogo exibe o tabuleiro no terminal desta forma:
 
 ```text
